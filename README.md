@@ -3,6 +3,9 @@ Online Multiplayer Pong made in c
 
 
 
+### Ip Addresses
+You may have to mess around with the ip addresses of the master server and what not because its all set on the loopback address for development
+
 ### Port Numbers
 5454 = Master Server Port
 5455 = Slave Master Port
